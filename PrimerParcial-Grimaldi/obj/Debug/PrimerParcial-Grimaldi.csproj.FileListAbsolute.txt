@@ -1,0 +1,7 @@
+C:\Users\grima\source\repos\PrimerParcial-Grimaldi\PrimerParcial-Grimaldi\bin\Debug\PrimerParcial-Grimaldi.exe.config
+C:\Users\grima\source\repos\PrimerParcial-Grimaldi\PrimerParcial-Grimaldi\bin\Debug\PrimerParcial-Grimaldi.exe
+C:\Users\grima\source\repos\PrimerParcial-Grimaldi\PrimerParcial-Grimaldi\bin\Debug\PrimerParcial-Grimaldi.pdb
+C:\Users\grima\source\repos\PrimerParcial-Grimaldi\PrimerParcial-Grimaldi\obj\Debug\PrimerParcial-Grimaldi.csproj.AssemblyReference.cache
+C:\Users\grima\source\repos\PrimerParcial-Grimaldi\PrimerParcial-Grimaldi\obj\Debug\PrimerParcial-Grimaldi.csproj.CoreCompileInputs.cache
+C:\Users\grima\source\repos\PrimerParcial-Grimaldi\PrimerParcial-Grimaldi\obj\Debug\PrimerParcial-Grimaldi.exe
+C:\Users\grima\source\repos\PrimerParcial-Grimaldi\PrimerParcial-Grimaldi\obj\Debug\PrimerParcial-Grimaldi.pdb

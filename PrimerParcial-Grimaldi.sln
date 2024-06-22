@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerParcial-Grimaldi", "PrimerParcial-Grimaldi\PrimerParcial-Grimaldi.csproj", "{0F17CC94-F83E-4409-A138-30C729E4A2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F17CC94-F83E-4409-A138-30C729E4A2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F17CC94-F83E-4409-A138-30C729E4A2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F17CC94-F83E-4409-A138-30C729E4A2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F17CC94-F83E-4409-A138-30C729E4A2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C1815D5-0E6D-4036-91E9-09447FC262D7}
+	EndGlobalSection
+EndGlobal
